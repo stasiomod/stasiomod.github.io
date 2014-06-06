@@ -1,0 +1,2 @@
+<h1>StasioMOD - Website</h1>
+Hi, here is the official website for StasioMOD! Though, the <a href="http://blog.stasiomod.tk">blog</a> and the <a href="http://forum.stasiomod.tk">forum</a> and the <a href="http://wiki.stasiomod.tk">wiki</a> are hosted on a different system as they are <a href="http://www.webopedia.com/TERM/D/dynamic.html">`dynamic`</a>. I like diversity, and the idea of `Github.IO`.
